@@ -39,9 +39,9 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 - Über den Parameter _pageimages_ erhalten Sie Informationen zu Bildern und Fotos. Über _piprop_ können Sie Bilder in Originalgröße oder als Thumbnail abrufen. Mehr erfahren Sie [\textcolor{blue}{hier}](https://www.mediawiki.org/wiki/Extension:PageImages).
 
--  [https://en.wikipedia.org/w/api.php?action=query&titles=Berlin&format=json&indexpageids&prop=images&prop=pageimages&piprop=original] Das ist ein Beispiel einer URL, mit welcher Sie Information zur Stadt Berlin erhalten.
+- [\textcolor{blue}{Hier}](https://en.wikipedia.org/w/api.php?action=query&titles=Berlin&format=json&indexpageids&prop=images&prop=pageimages&piprop=original) ist ein Beispiel einer URL, mit welcher Sie Information zur Stadt Berlin erhalten. 
 
-- Hinweis: Binden Sie als letztes Element der URL **&origin=** ein, damit sie über die Fetch API Zugriff auf die Wikipedia Inhalte haben. 
+- Hinweis: Binden Sie als letztes Element der URL **&origin=*** ein, damit sie über die Fetch API Zugriff auf die Wikipedia Inhalte haben. 
 
   
 
