@@ -27,9 +27,9 @@ header-includes: |
 
 # 07 | Mit einer API arbeiten - MediaWiki Action API
 
-Erstellen Sie in dieser Aufgabe eine einfache Anwendung, die lediglich aus einem Input-Feld besteht. In dieses Feld können Nutzer Städtenamen auf Englisch (z.B. Munich) eingeben, um daraufhin ein Bild der Stadt zu erhalten. Dieses Bild wird im Browser gerendert. Wird eine weitere Stadt eingegeben, so wird das nächste Bild angehängt.
+Erstellen Sie in dieser Aufgabe eine einfache Anwendung, die lediglich aus einem Input-Feld besteht. In dieses Feld können Nutzer Städtenamen auf Englisch (z.B. Munich) eingeben, um daraufhin ein Bild zu erhalten, dass z.B. eine typische Sehenswürdigkeit darstellt. Dieses Bild wird im Browser gerendert. Wird eine weitere Stadt eingegeben, so wird das nächste Bild angehängt.
 
-Verwenden Sie die  [\textcolor{blue}{MediaWiki API}](https://www.mediawiki.org/wiki/API:Main_page), um die benötigten Informationen zu den einzelnen Städte zu erhalten. Es ist völlig ausreichend, wenn Sie ein Bild der Hauptseite des Wikipedia-Artikels der dazugehörigen Stadt anzeigen. Der Nutzer soll darüber informiert werden, wenn keine Informationen zur angeforderten Stadt existieren.
+Verwenden Sie die  [\textcolor{blue}{MediaWiki API}](https://www.mediawiki.org/wiki/API:Main_page), um die benötigten Informationen zu den einzelnen Städten zu erhalten. Es ist völlig ausreichend, wenn Sie ein Bild der Hauptseite des Wikipedia-Artikels der dazugehörigen Stadt anzeigen. Der Nutzer soll darüber informiert werden, wenn keine Informationen zur angeforderten Stadt existieren.
 
 Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementieren:
 
@@ -49,7 +49,7 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 29.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Für dieses Übungsblatt haben Sie zwei Wochen Zeit. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 29.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Ihr gesamtes Projekt
 
