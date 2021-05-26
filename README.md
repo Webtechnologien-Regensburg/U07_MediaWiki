@@ -1,6 +1,6 @@
 ---
 title: Mit einer API arbeiten - MediaWiki
-author: Martin Kocur
+author: Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -39,7 +39,7 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 - [\textcolor{blue}{Hier}](https://en.wikipedia.org/w/api.php?action=query&titles=Berlin&format=json&indexpageids&prop=images&prop=pageimages&piprop=original) ist ein Beispiel einer URL, mit welcher Sie Informationen zur Stadt Berlin erhalten. 
 
-- Hinweis: Binden Sie als letztes Element der URL **&origin=*** ein, damit sie über die Fetch API Zugriff auf die Inhalte von Wikipedia haben. 
+- Hinweis: Binden Sie als letztes Element der URL **&origin=*** ein, damit sie über die [\textcolor{blue}{Fetch API}](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) Zugriff auf die Inhalte von Wikipedia haben. 
 
   
 
@@ -49,14 +49,14 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 29.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 03.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Ihr gesamtes Projekt
 
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_7_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS21_7_Max_Mustermann.zip**
 
