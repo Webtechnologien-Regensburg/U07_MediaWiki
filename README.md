@@ -49,7 +49,7 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 03.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 03.06.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Ihr gesamtes Projekt
 
