@@ -3,7 +3,7 @@ name: Create PDF Handout
 on: push
 
 env:
-  CLASS_NAME: WebTech-SS2021-
+  CLASS_NAME: WebTech-SS2022-
   REPO_NAME: ${{ github.event.repository.name }}
 
 jobs:
