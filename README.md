@@ -1,6 +1,6 @@
 ---
 title: Mit einer API arbeiten - MediaWiki
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
