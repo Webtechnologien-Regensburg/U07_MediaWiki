@@ -49,14 +49,14 @@ Die nachfolgenden Quellen sollen Ihnen dabei helfen, die Anwendung zu implementi
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 03.06.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 13.06.2022 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Ihr gesamtes Projekt
 
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_7_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_7_Max_Mustermann.zip**
 
